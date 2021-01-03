@@ -13,3 +13,4 @@ Create a fullstack sandbox similar to codesandbox.io but with backend capability
 * test backend routes
 * support typescript/flow/etc
 * mainly react-based but may support more
+* integration with cypress.io
